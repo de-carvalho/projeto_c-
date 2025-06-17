@@ -123,7 +123,10 @@ void ExibirMedia()
 
     if (bandasRegistradas.ContainsKey(nomeDaBanda))
     {
-        int notas = bandasRegistradas[(nomeDaBanda)].Count;
+        List<int> notasDasBandas = bandasRegistradas[nomeDaBanda];
+        Console.WriteLine($"A média da banda {nomeDaBanda} é {notasDasBandas.Average()}");
+        Console.WriteLine("Digite uma tecla para voltar ao menu principal");
+        Console.ReadKey();
     } else
     {
         Console.WriteLine($"A banda {nomeDaBanda} não foi encontrada!");

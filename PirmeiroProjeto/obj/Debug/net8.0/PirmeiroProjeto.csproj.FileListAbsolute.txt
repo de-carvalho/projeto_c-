@@ -12,3 +12,4 @@ C:\Users\User\source\repos\PirmeiroProjeto\PirmeiroProjeto\obj\Debug\net8.0\refi
 C:\Users\User\source\repos\PirmeiroProjeto\PirmeiroProjeto\obj\Debug\net8.0\PirmeiroProjeto.pdb
 C:\Users\User\source\repos\PirmeiroProjeto\PirmeiroProjeto\obj\Debug\net8.0\PirmeiroProjeto.genruntimeconfig.cache
 C:\Users\User\source\repos\PirmeiroProjeto\PirmeiroProjeto\obj\Debug\net8.0\ref\PirmeiroProjeto.dll
+C:\Users\User\source\repos\PirmeiroProjeto\PirmeiroProjeto\obj\Debug\net8.0\PirmeiroProjeto.sourcelink.json
