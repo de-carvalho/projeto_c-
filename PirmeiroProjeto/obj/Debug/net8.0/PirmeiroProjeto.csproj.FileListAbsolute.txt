@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\PirmeiroProjeto\PirmeiroProjeto\bin\Debug\net8.0\PirmeiroProjeto.exe
+C:\Users\User\source\repos\PirmeiroProjeto\PirmeiroProjeto\bin\Debug\net8.0\PirmeiroProjeto.deps.json
+C:\Users\User\source\repos\PirmeiroProjeto\PirmeiroProjeto\bin\Debug\net8.0\PirmeiroProjeto.runtimeconfig.json
+C:\Users\User\source\repos\PirmeiroProjeto\PirmeiroProjeto\bin\Debug\net8.0\PirmeiroProjeto.dll
+C:\Users\User\source\repos\PirmeiroProjeto\PirmeiroProjeto\bin\Debug\net8.0\PirmeiroProjeto.pdb
+C:\Users\User\source\repos\PirmeiroProjeto\PirmeiroProjeto\obj\Debug\net8.0\PirmeiroProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\PirmeiroProjeto\PirmeiroProjeto\obj\Debug\net8.0\PirmeiroProjeto.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\PirmeiroProjeto\PirmeiroProjeto\obj\Debug\net8.0\PirmeiroProjeto.AssemblyInfo.cs
+C:\Users\User\source\repos\PirmeiroProjeto\PirmeiroProjeto\obj\Debug\net8.0\PirmeiroProjeto.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PirmeiroProjeto\PirmeiroProjeto\obj\Debug\net8.0\PirmeiroProjeto.dll
+C:\Users\User\source\repos\PirmeiroProjeto\PirmeiroProjeto\obj\Debug\net8.0\refint\PirmeiroProjeto.dll
+C:\Users\User\source\repos\PirmeiroProjeto\PirmeiroProjeto\obj\Debug\net8.0\PirmeiroProjeto.pdb
+C:\Users\User\source\repos\PirmeiroProjeto\PirmeiroProjeto\obj\Debug\net8.0\PirmeiroProjeto.genruntimeconfig.cache
+C:\Users\User\source\repos\PirmeiroProjeto\PirmeiroProjeto\obj\Debug\net8.0\ref\PirmeiroProjeto.dll
